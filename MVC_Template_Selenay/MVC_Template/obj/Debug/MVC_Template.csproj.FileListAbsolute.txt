@@ -1,0 +1,434 @@
+E:\1. GRUP\MVC_Template\MVC_Template\bin\MVC_Template.dll.config
+E:\1. GRUP\MVC_Template\MVC_Template\bin\MVC_Template.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\MVC_Template.pdb
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csc.exe
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csc.exe.config
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csc.rsp
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csi.exe
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csi.exe.config
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\csi.rsp
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.AppContext.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Console.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.IO.Compression.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Claims.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.ValueTuple.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\vbc.exe
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\vbc.exe.config
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\vbc.rsp
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe
+E:\1. GRUP\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+E:\1. GRUP\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Helpers.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Mvc.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Razor.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.dll
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Razor.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Helpers.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\System.Web.Mvc.xml
+E:\1. GRUP\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1. GRUP\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+E:\1. GRUP\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+E:\1. GRUP\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+E:\1. GRUP\MVC_Template\MVC_Template\obj\Debug\MVC_Template.dll
+E:\1. GRUP\MVC_Template\MVC_Template\obj\Debug\MVC_Template.pdb
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\MVC_Template.dll.config
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\MVC_Template.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\MVC_Template.pdb
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csc.exe
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csc.exe.config
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csc.rsp
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csi.exe
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csi.exe.config
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\csi.rsp
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.AppContext.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Console.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.IO.Compression.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Claims.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.ValueTuple.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\vbc.exe
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\vbc.exe.config
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\vbc.rsp
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Helpers.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Mvc.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Razor.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Razor.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Helpers.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\System.Web.Mvc.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+E:\Sabahcilar\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+E:\Sabahcilar\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+E:\Sabahcilar\MVC_Template\MVC_Template\obj\Debug\MVC_Template.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\obj\Debug\MVC_Template.pdb
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\EntityFramework.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\EntityFramework.SqlServer.dll
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\EntityFramework.xml
+E:\Sabahcilar\MVC_Template\MVC_Template\bin\EntityFramework.SqlServer.xml
+F:\MVC_Template\MVC_Template\bin\MVC_Template.dll.config
+F:\MVC_Template\MVC_Template\bin\MVC_Template.dll
+F:\MVC_Template\MVC_Template\bin\MVC_Template.pdb
+F:\MVC_Template\MVC_Template\bin\roslyn\csc.exe
+F:\MVC_Template\MVC_Template\bin\roslyn\csc.exe.config
+F:\MVC_Template\MVC_Template\bin\roslyn\csc.rsp
+F:\MVC_Template\MVC_Template\bin\roslyn\csi.exe
+F:\MVC_Template\MVC_Template\bin\roslyn\csi.exe.config
+F:\MVC_Template\MVC_Template\bin\roslyn\csi.rsp
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MVC_Template\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MVC_Template\MVC_Template\bin\roslyn\System.AppContext.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Console.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.IO.Compression.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Claims.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.ValueTuple.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MVC_Template\MVC_Template\bin\roslyn\vbc.exe
+F:\MVC_Template\MVC_Template\bin\roslyn\vbc.exe.config
+F:\MVC_Template\MVC_Template\bin\roslyn\vbc.rsp
+F:\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe
+F:\MVC_Template\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+F:\MVC_Template\MVC_Template\bin\EntityFramework.dll
+F:\MVC_Template\MVC_Template\bin\EntityFramework.SqlServer.dll
+F:\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MVC_Template\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Helpers.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Mvc.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Razor.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.dll
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.dll
+F:\MVC_Template\MVC_Template\bin\EntityFramework.xml
+F:\MVC_Template\MVC_Template\bin\EntityFramework.SqlServer.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Razor.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Webpages.Razor.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Helpers.xml
+F:\MVC_Template\MVC_Template\bin\System.Web.Mvc.xml
+F:\MVC_Template\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+F:\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+F:\MVC_Template\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+F:\MVC_Template\MVC_Template\obj\Debug\MVC_Template.dll
+F:\MVC_Template\MVC_Template\obj\Debug\MVC_Template.pdb
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll.config
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.pdb
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe.config
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.rsp
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe.config
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.rsp
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.AppContext.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Console.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe.config
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.rsp
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.dll
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.pdb
+C:\Users\Sem\Desktop\Web-MVC\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+F:\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll.config
+F:\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.pdb
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe.config
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.rsp
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe.config
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.rsp
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.AppContext.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Console.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Compression.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Claims.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.ValueTuple.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe.config
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.rsp
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe
+F:\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+F:\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.dll
+F:\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.xml
+F:\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+F:\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+F:\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+F:\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.dll
+F:\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.pdb
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll.config
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\MVC_Template.pdb
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.exe.config
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csc.rsp
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.exe.config
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\csi.rsp
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.AppContext.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Collections.Immutable.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Console.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Compression.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.IO.Pipes.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.AccessControl.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Claims.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.ValueTuple.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.exe.config
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\vbc.rsp
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\roslyn\VBCSCompiler.exe.config
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\Microsoft.Web.Infrastructure.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\EntityFramework.SqlServer.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Razor.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Deployment.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Webpages.Razor.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Helpers.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\System.Web.Mvc.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csprojAssemblyReference.cache
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CoreCompileInputs.cache
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.csproj.CopyComplete
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.dll
+E:\Sabahcilar\MVC_Template_Selenay\MVC_Template\obj\Debug\MVC_Template.pdb

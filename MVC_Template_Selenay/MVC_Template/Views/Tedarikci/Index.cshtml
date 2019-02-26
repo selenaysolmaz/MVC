@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@using MVC_Template.Models;
+@model List<Supplier>
+
+@section head{
+    <style>
+        .hata {
+            color: red;
+        }
+    </style>
+}
+
+<br />
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Tedarikciler
+                </div>
+                <div class="block-controls">
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                    <a href="/Tedarikci/TedarikciEkle" class="btn btn-success rounded" role="button">Tedarikci Ekle</a>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th>sirket Adı</th>
+                                <th>ilgili kisi</th>
+                                <th>ilgili kisi unvan</th>
+                                <th>adres</th>
+                                <th>sehir</th>
+                                <th>bolge</th>
+                                <th>posta kodu</th>
+                                <th>ulke</th>
+                                <th>telefon numara</th>
+                                <th>fax</th>
+                                <th>guncelle</th>
+                                <th>Sil</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Supplier ted in Model)
+                            {
+                                <tr>
+                                    <td>@ted.CompanyName</td>
+                                    <td>@ted.ContactName</td>
+                                    <td>@ted.ContactTitle</td>
+                                    <td>@ted.Address</td>
+                                    <td>@ted.City</td>
+                                    <td>@ted.Region</td>
+                                    <td>@ted.PostalCode</td>
+                                    <td>@ted.Country</td>
+                                    <td>@ted.Phone</td>
+                                    <td>@ted.Fax</td>
+
+
+                                    <td><a href="/Tedarikci/Guncelle/@ted.SupplierID" class="btn btn-primary">Güncelle</a></td>
+                                    <td>
+                                        <a href="#" class="btn btn-danger tedSil" data-tedid="@ted.SupplierID"> Alert ile Sil </a>
+                                        <button class="btn btn-danger" data-toggle="modal" data-target="#small-modal" data-tedid="@ted.SupplierID" data-tedname="@ted.CompanyName">
+                                            modal form ile sil
+                                        </button>
+
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+    <script>
+
+        //Click eventini çalıştıran eleman yani classı ktgSil olan eleman
+        $(".tedSil").click(function () {
+            var sonuc = confirm("Kayıt silinsin mi?");
+            if (sonuc) {
+                var tedID = $(this).data("tedid");
+                $.ajax({
+                    type: "POST",
+                    url: "/Tedarikci/Sil/" + tedID,
+                    success: function () {
+                        alert("Kayıt silindi");
+                        window.location.replace("/Tedarikci/Index");
+                    },
+                    error: function () {
+                        alert("Kayıt silme sırasında hata oluştu.");
+                    }
+                })
+            }
+        });
+//Ajax düzgün bir şekilde control tarafındaki action a gittiyse ve parametreyi götürdüyse ve konrol tarafında hiçbir hata oluşmadıysa Ajax'daki success function çalışır. (önce mesaj verir sonra sayfayı yeniler.)
+    </script>
+}
+
